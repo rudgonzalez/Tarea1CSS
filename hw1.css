@@ -1,0 +1,22 @@
+header{
+    background: #b2b2b2;
+    font-variant: small-caps;
+}
+h1{
+    text-align: center;
+}
+nav{
+    font-style: inherit;
+    background: #c3c3c3;
+    display: inline;
+}
+aside{
+    display: none;
+}
+section{
+    background: #7f7f7f;
+}
+h2{
+    font-weight: 900;
+    color: #151280;
+}
